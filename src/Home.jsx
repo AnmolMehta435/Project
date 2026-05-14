@@ -8,7 +8,7 @@ import {
   FaHome,
 } from "react-icons/fa";
 
-import "./Home.css";
+import "./Home.Css";
 
 const heroImages = [
   "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
