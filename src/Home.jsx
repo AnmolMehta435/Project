@@ -8,8 +8,7 @@ import {
   FaHome,
 } from "react-icons/fa";
 
-import "./Home.Css";
-
+import "./src/Home.css"
 const heroImages = [
   "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
   "https://vetmed.tamu.edu/news/wp-content/uploads/sites/9/2021/06/Grief-Pet-Talk.png",
